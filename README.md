@@ -3,11 +3,7 @@
 # dc540-0x00001
 DC540 hacking challenge 0x00001.
 
-<br> 
-
 ## PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/YJAa4o7WXkE) ON YOUTUBE
-
-<br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/SqPVb6PS)
 
