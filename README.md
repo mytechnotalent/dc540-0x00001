@@ -9,6 +9,8 @@ DC540 hacking challenge 0x00001.
 
 <br>
 
+## Join DC540 Discord [HERE](https://discord.gg/SqPVb6PS)
+
 ## BRIEF
 The year is 2021 and seven months. The United States has suffered immeasurable cyber-attacks not before seen in history. The SolarWinds attack was the first in a series of crippling attacks that has left the world and this nation extremely vulnerable as 25% of the school systems have been bankrupt with ransomware as well as 40% of commercial businesses. It has been discovered by intelligence sources that this attack is in fact the work of several key nation-states that are referred to as “Dark Eyes” and physically exist sixty-six floors underground in a classified location. 
 
