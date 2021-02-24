@@ -9,7 +9,7 @@ DC540 hacking challenge 0x00001.
 
 <br>
 
-## Join DC540 Discord [HERE](https://discord.gg/SqPVb6PS)
+## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
 
