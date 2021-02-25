@@ -9,6 +9,10 @@ DC540 hacking challenge 0x00001.
 
 <br>
 
+## Next Challenge [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+
+<br>
+
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
