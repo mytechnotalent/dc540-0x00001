@@ -17,7 +17,7 @@ DC540 hacking challenge 0x00001.
 
 <br>
 
-## FREE Reverse Engineering For All Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 
 <br>
 
