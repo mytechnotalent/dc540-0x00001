@@ -35,7 +35,7 @@ To all three, the President said, “You will be transported to the classified l
 <br>
 
 ## MISSION
-You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission.  The first task is to decrypt this strange message to which SEAL Team 8 found and report back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas.
+You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission.  The first task is to decrypt this strange message to which SEAL Team 8 found and report back to, "Master Assembler" with your results by sending a private Discord DM to @P4R4D0X in the DC540 Discord channel listed above.
 
 ## HINT
 "Sometimes it takes a bombe to break encryption!"
